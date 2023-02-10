@@ -40,6 +40,8 @@ int main()
     initialiser_imageBOUTON(&IMAGE_BTN6,800,700,320,130,"QUIT2.png");
 
     initialiser_audio(music,"backgmusic.wav");
+    // init audio
+    initialiser_audio(music,"backgmusic.wav");
     //initialiser_audiobref(mus,"beep.wav");
     // initialiser_texte(&txte);
 
